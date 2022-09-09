@@ -17,11 +17,36 @@ The application’s front end has already been created & I worked on the back en
 
 * By clicking on the Write icon in the navigation at the top of the page, you're presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+## Installation
+* Copy the repository to your system
+* npm install
+* node server.js
+Visit http://localhost:3001/ or https://note-taker-gj.herokuapp.com/
+
+## Technologies
+* NodeJs
+* Express
+
+## Usage
+To Add a Note:
+
+* Click the '➕' button
+* Enter a Note Title
+* Enter a Note Text
+* Click the '💾' button
+
+To View a Note:
+
+* Click the Note Title on the left-hand column
+* The clicked Note will display on the right-hand column
+
+
+
 ## Link:
 
 * [Heroku Deployed Page](https://note-taker-gj.herokuapp.com/)
 
-## Site Preview:
+## Application Preview:
 
 ![Site Preview](./preview-1.png)
 ![Site Preview](./preview-2.png)
