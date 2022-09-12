@@ -40,13 +40,11 @@ To View a Note:
 * Click the Note Title on the left-hand column
 * The clicked Note will display on the right-hand column
 
-
-
-## Link:
+## Link
 
 * [Heroku Deployed Page](https://note-taker-gj.herokuapp.com/)
 
-## Application Preview:
+## Application Preview
 
 ![Site Preview](./preview-1.png)
 ![Site Preview](./preview-2.png)
